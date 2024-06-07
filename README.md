@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/build-systems/toolbox/blob/main/src/assets/black-logo_round.png" width="150px"/><br/>
-  BuildSystems | Toolbox
+  BuildSystems
 </h1>
 <h3 align="center">
     KfW Funding Calculators for Sustainable Houses in Germany
