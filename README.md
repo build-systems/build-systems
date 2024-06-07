@@ -3,9 +3,8 @@
   BuildSystems
 </h1>
 <h3 align="center">
-    KfW Funding Calculators for Sustainable Houses in Germany
+    Your partner to achieve feasible yet sustainable constructions and renovations in Germany
 </h3>
-<p align="center"><b>BuildSystems</b> is your partner to achieve feasible yet sustainable constructions and renovations in Germany.</p><br/>
 
-<p align="center"><a href="https://app.buildsystems.de/"><img src="https://img.shields.io/badge/https://-app.buildsystems.de-white" alt="website"></a> <a href="https://www.linkedin.com/company/build-systems-de"><img src="https://img.shields.io/badge/Follow-BuildSystems-blue?logo=linkedin" alt="Twitter Follow"></a></p>
+<p align="center"><a href="https://buildsystems.de/"><img src="https://img.shields.io/badge/https://-buildsystems.de-white" alt="website"></a> <a href="https://www.linkedin.com/company/build-systems-de"><img src="https://img.shields.io/badge/Follow-BuildSystems-blue?logo=linkedin" alt="Twitter Follow"></a></p>
 <p align="center"></p>
